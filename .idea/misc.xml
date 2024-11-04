@@ -6,9 +6,14 @@
       <list>
         <option value="$PROJECT_DIR$/class01-servlet/pom.xml" />
         <option value="$PROJECT_DIR$/class02-request/pom.xml" />
+<<<<<<< HEAD
         <option value="$PROJECT_DIR$/class03-response/pom.xml" />
         <option value="$PROJECT_DIR$/class04-cookie-session/pom.xml" />
         <option value="$PROJECT_DIR$/book-online/pom.xml" />
+=======
+        <option value="$PROJECT_DIR$/class02-Request/pom.xml" />
+        <option value="$PROJECT_DIR$/class03-Response/pom.xml" />
+>>>>>>> 5fc8e111e1f261b8eb329b54caf2c6a8804023a8
       </list>
     </option>
   </component>

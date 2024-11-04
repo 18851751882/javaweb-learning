@@ -6,6 +6,7 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+<<<<<<< HEAD
         <module name="class04-cookie-session" />
         <module name="class02-request" />
         <module name="class03-response" />
@@ -15,5 +16,12 @@
     <bytecodeTargetLevel>
       <module name="class01-servlet" target="17" />
     </bytecodeTargetLevel>
+=======
+        <module name="class01-servlet" />
+        <module name="class02-Request" />
+        <module name="class03-Response" />
+      </profile>
+    </annotationProcessing>
+>>>>>>> 5fc8e111e1f261b8eb329b54caf2c6a8804023a8
   </component>
 </project>

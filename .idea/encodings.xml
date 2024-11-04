@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="Encoding">
+<<<<<<< HEAD
     <file url="file://$PROJECT_DIR$/book-online/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/book-online/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/class01-servlet/src/main/java" charset="UTF-8" />
@@ -11,5 +12,13 @@
     <file url="file://$PROJECT_DIR$/class03-response/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/class04-cookie-session/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/class04-cookie-session/src/main/resources" charset="UTF-8" />
+=======
+    <file url="file://$PROJECT_DIR$/class01-servlet/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/class01-servlet/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/class02-Request/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/class02-Request/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/class03-Response/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/class03-Response/src/main/resources" charset="UTF-8" />
+>>>>>>> 5fc8e111e1f261b8eb329b54caf2c6a8804023a8
   </component>
 </project>
