@@ -2,12 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-<<<<<<< HEAD
-      <module fileurl="file://$PROJECT_DIR$/class01-servlet/class01-servlet.iml" filepath="$PROJECT_DIR$/class01-servlet/class01-servlet.iml" />
-      <module fileurl="file://$PROJECT_DIR$/class02-request/class02-request.iml" filepath="$PROJECT_DIR$/class02-request/class02-request.iml" />
-=======
->>>>>>> 5fc8e111e1f261b8eb329b54caf2c6a8804023a8
-      <module fileurl="file://$PROJECT_DIR$/javaweb-learning.iml" filepath="$PROJECT_DIR$/javaweb-learning.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/javaweb-learning.iml" filepath="$PROJECT_DIR$/.idea/javaweb-learning.iml" />
     </modules>
   </component>
 </project>

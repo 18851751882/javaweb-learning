@@ -4,17 +4,27 @@
   <component name="MavenProjectsManager">
     <option name="originalFiles">
       <list>
+        <option value="$PROJECT_DIR$/javaweb-learning/class04-cookie-session/pom.xml" />
+        <option value="$PROJECT_DIR$/javaweb-learning/class03-response/pom.xml" />
+        <option value="$PROJECT_DIR$/javaweb-learning/class02-request/pom.xml" />
+        <option value="$PROJECT_DIR$/javaweb-learning/class01-servlet/pom.xml" />
+        <option value="$PROJECT_DIR$/javaweb-learning/book-online/pom.xml" />
+        <option value="$PROJECT_DIR$/javaweb-learning/out/production/javaweb-learning/pom.xml" />
+        <option value="$PROJECT_DIR$/class05-ajax-axios/pom.xml" />
+        <option value="$PROJECT_DIR$/javaweb-learning/class05-ajax-axios/pom.xml" />
+        <option value="$PROJECT_DIR$/book-online/pom.xml" />
         <option value="$PROJECT_DIR$/class01-servlet/pom.xml" />
         <option value="$PROJECT_DIR$/class02-request/pom.xml" />
-<<<<<<< HEAD
         <option value="$PROJECT_DIR$/class03-response/pom.xml" />
         <option value="$PROJECT_DIR$/class04-cookie-session/pom.xml" />
-        <option value="$PROJECT_DIR$/book-online/pom.xml" />
-=======
-        <option value="$PROJECT_DIR$/class02-Request/pom.xml" />
-        <option value="$PROJECT_DIR$/class03-Response/pom.xml" />
->>>>>>> 5fc8e111e1f261b8eb329b54caf2c6a8804023a8
+        <option value="$PROJECT_DIR$/brand-list/pom.xml" />
+        <option value="$PROJECT_DIR$/out/production/javaweb-learning/pom.xml" />
       </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/javaweb-learning/class05-ajax-axios/pom.xml" />
+      </set>
     </option>
   </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="17" project-jdk-type="JavaSDK">

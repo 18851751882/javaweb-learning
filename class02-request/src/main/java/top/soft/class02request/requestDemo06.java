@@ -8,11 +8,11 @@ import jakarta.servlet.http.HttpServletRequest;
 import jakarta.servlet.http.HttpServletResponse;
 
 import java.io.IOException;
-@WebServlet ("/requestDemo06")
-public class requestDemo06 extends HttpServlet {
+@WebServlet("/RequestDemo06")
+public class RequestDemo06 extends HttpServlet {
     @Override
     protected void doGet(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {
-        System.out.println("RequestDemo06被访问……");
+        System.out.println("requestDemo06被访问...");
 
         ServletContext servletContext = req.getServletContext();
         servletContext.setAttribute("info","message");

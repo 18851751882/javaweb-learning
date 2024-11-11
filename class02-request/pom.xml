@@ -5,9 +5,9 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>top.soft</groupId>
-  <artifactId>class02-request</artifactId>
+  <artifactId>class02-Request</artifactId>
   <version>1.0-SNAPSHOT</version>
-  <name>class02-request</name>
+  <name>class02-Request</name>
   <packaging>war</packaging>
 
   <properties>

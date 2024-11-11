@@ -8,36 +8,32 @@ import jakarta.servlet.http.HttpServletResponse;
 
 import java.io.IOException;
 
-@WebServlet("/requestDemo01")
-public class RequestDemo01  extends HttpServlet {
+/**
+ *
+ */
+@WebServlet("/RequestDemo01")
+public class RequestDemo01 extends HttpServlet {
 
     @Override
-    protected void doGet(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {
-    //1、请求方式
-    String method = req.getMethod();
-    System.out.println("获取请求方法"+method);
-
-    String servletPath = req.getServletPath();
-    System.out.println("获取Servlet路径" +servletPath);
-
-        //3、获取 get 请求参数
-        String queryString = req.getQueryString();
-        System.out.println("获取请求参数" + queryString);
-
-
+    protected void doGet(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException{
+        //  1.获取请求方法啊
+        String method = req.getMethod();
+        System.out.println("获取请求方法" + method);
+        // 2.获取 Servlet 路径
+        String servletPath = req.getServletPath();
+        System.out.println("获取Servlet路径"+ servletPath);
+        //3.获取 get 请求参救
+        String querystring = req.getQueryString();
+        System.out.println("获取请求参数" + querystring);
         //4、获取请求URI 和 URL
-        String requestURI = req. getRequestURI() ;
+        String requestURI = req.getRequestURI();
         System.out.println("请求URI" + requestURI);
-        StringBuffer requestURL = req. getRequestURL();
+        StringBuffer requestURL = req.getRequestURL();
         System.out.println("获取请求URL" + requestURL);
-
-
         //5、获取版本协议
-        String protocol = req. getProtocol();
+        String protocol = req.getProtocol();
         System.out.println("版本协议" + protocol);
-
-
-        //6、获取虚拟目录
+        //6.获取虚拟日录
         String contextPath = req.getContextPath();
         System.out.println("获取虚拟目录" + contextPath);
     }
